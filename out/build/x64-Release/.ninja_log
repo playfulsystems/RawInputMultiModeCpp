@@ -1,0 +1,22 @@
+# ninja log v5
+1	780	7691089552570444	CMakeFiles/RawInputPlugin.dir/RawInputPlugin.cpp.obj	27bd2c901c858a1d
+5	798	7691089552748308	CMakeFiles/RawInputPlugin.dir/RawInputForwarder.cpp.obj	61971159f301c830
+8	840	7691089553191046	CMakeFiles/RawInputPlugin.dir/RawInputStateTracker.cpp.obj	7da0d9d4989fc97d
+840	1161	7691089556336094	RawInputPlugin.dll	1416284ede548d07
+840	1161	7691089556336094	RawInputPlugin.lib	1416284ede548d07
+10	953	7691108131355795	CMakeFiles/RawInputPlugin.dir/RawInputWindow.cpp.obj	9c4d580a0a40eacc
+4	985	7691108131688680	CMakeFiles/RawInputPlugin.dir/RawInputStateTracker.cpp.obj	7da0d9d4989fc97d
+0	1013	7691108131975326	CMakeFiles/RawInputPlugin.dir/RawInputPlugin.cpp.obj	27bd2c901c858a1d
+0	628	7691108636674817	CMakeFiles/RawInputPlugin.dir/RawInputUnityForwarder.cpp.obj	4ad3f9c8667fbc44
+629	929	7691108639360434	RawInputPlugin.dll	ae1fb40abc1dfb66
+629	929	7691108639360434	RawInputPlugin.lib	ae1fb40abc1dfb66
+12	1044	7693722447175070	CMakeFiles/RawInputPlugin.dir/RawInputUnityForwarder.cpp.obj	4ad3f9c8667fbc44
+7	1115	7693722447897740	CMakeFiles/RawInputPlugin.dir/RawInputStateTracker.cpp.obj	7da0d9d4989fc97d
+1	1126	7693722447988415	CMakeFiles/RawInputPlugin.dir/RawInputPlugin.cpp.obj	27bd2c901c858a1d
+1126	1474	7693722450933506	RawInputPlugin.dll	ae1fb40abc1dfb66
+1126	1474	7693722450933506	RawInputPlugin.lib	ae1fb40abc1dfb66
+0	419	7693722447988415	RawInputPlugin.dll	ae1fb40abc1dfb66
+0	419	7693722447988415	RawInputPlugin.lib	ae1fb40abc1dfb66
+1	922	7696432561365543	CMakeFiles/RawInputPlugin.dir/RawInputStateTracker.cpp.obj	7da0d9d4989fc97d
+923	1161	7696432561365543	RawInputPlugin.dll	ae1fb40abc1dfb66
+923	1161	7696432561365543	RawInputPlugin.lib	ae1fb40abc1dfb66

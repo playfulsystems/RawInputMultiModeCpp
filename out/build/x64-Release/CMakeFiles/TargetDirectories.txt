@@ -1,0 +1,3 @@
+C:/Users/jonah/source/repos/RawInputMultiMode/out/build/x64-Release/CMakeFiles/RawInputPlugin.dir
+C:/Users/jonah/source/repos/RawInputMultiMode/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/jonah/source/repos/RawInputMultiMode/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
